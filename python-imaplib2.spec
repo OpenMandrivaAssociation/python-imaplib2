@@ -1,6 +1,6 @@
 Name:		python-imaplib2
 Version:	3.6
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/i/imaplib2/imaplib2-%{version}.tar.gz
 Summary:	A threaded Python IMAP4 client.
 URL:		https://pypi.org/project/imaplib2/
