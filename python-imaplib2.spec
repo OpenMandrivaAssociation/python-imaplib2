@@ -7,6 +7,8 @@ URL:		https://pypi.org/project/imaplib2/
 License:	MIT
 Group:		Development/Python
 BuildRequires:	python%{pyver}dist(pip)
+BuildRequires:	python%{pyver}dist(setuptools)
+BuildRequires:	python%{pyver}dist(wheel)
 BuildArch:	noarch
 
 %description
